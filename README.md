@@ -22,7 +22,7 @@ Make sure you have the following installed on your system:
 - pandas
 
 ```bash
-pip install opencv-python numpay twilio playsound==1.2.2
+pip install opencv-python numpy twilio playsound==1.2.2
 ```
 
 ## Configuration
