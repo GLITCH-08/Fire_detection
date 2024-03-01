@@ -17,10 +17,12 @@ Make sure you have the following installed on your system:
 - Python (>=3.6)
 - OpenCV
 - Twilio Python library (twilio)
-- bash
+- playsound
+- numpy
+- pandas
 
 ```bash
-pip install opencv-python twilio
+pip install opencv-python numpay twilio playsound==1.2.2
 ```
 
 ## Configuration
