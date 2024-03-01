@@ -56,7 +56,7 @@ TO_PHONE_NUMBERS = ["Recipient_Phone_Number_1", "Recipient_Phone_Number_2"]
 
 3. Running the Flask App
    ```sh
-    python fire_detection_system.py
+    python fire-dectector.py
     ```
 
 ## Important Notes
