@@ -46,11 +46,18 @@ TO_PHONE_NUMBERS = ["Recipient_Phone_Number_1", "Recipient_Phone_Number_2"]
 
 ## Usage
 
-Run the Python script:
+1. To make a virtual environment
+   ```sh
+    python -m venv name-of-env
 
-```bash
-python fire_detection_system.py
-```
+2. Activate the virtual environment
+   ```sh
+   name-of-env\Scripts\activate
+
+3. Running the Flask App
+   ```sh
+    python fire_detection_system.py
+    ```
 
 ## Important Notes
 
